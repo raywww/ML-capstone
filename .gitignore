@@ -1,0 +1,14 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# no use dirs
+/imgs/
+/reference material/
+
+# needed files
+*.ipynb
+*.docx
+*.csv
+*.zip
+*.html
+!proposal.pdf

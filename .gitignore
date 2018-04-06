@@ -6,9 +6,10 @@
 /reference material/
 
 # needed files
-*.ipynb
+
 *.docx
 *.csv
 *.zip
 *.html
 !proposal.pdf
+!*.ipynb
